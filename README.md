@@ -139,7 +139,7 @@ streamlit run app.py
 
 ##  Author
 
-**Ajay Borelli**
+**Borelli Ajay Kumar**
 
 GitHub: https://github.com/ajayborelli
 
