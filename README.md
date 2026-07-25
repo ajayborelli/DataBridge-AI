@@ -141,11 +141,8 @@ streamlit run app.py
 
 **Ajay Borelli**
 
-M.Tech – Artificial Intelligence & Data Science
-
 GitHub: https://github.com/ajayborelli
 
----
 
 ## 
 This project is intended for academic and educational purposes.
